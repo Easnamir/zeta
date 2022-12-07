@@ -1,2 +1,1 @@
-# ipos-web
-Web application of Ipos
+These are zeta files and folders
